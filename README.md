@@ -20,7 +20,13 @@ Welcome to the **Movie Search Website**! 🎬 This web application allows users 
 - **React Hooks**: For managing component state and effects.
 
 ---
-## Screenshot 
+## Screenshots 
+
+![Screenshot 2025-01-16 190020](https://github.com/user-attachments/assets/194a9404-5f2e-43ae-a220-2d71e8c5a628)
+
+
+![Screenshot 2025-01-16 190131](https://github.com/user-attachments/assets/4694f958-7fed-42ef-af65-a52842215177)
+
 
 
 # React + Vite
